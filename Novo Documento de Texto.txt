@@ -4,5 +4,6 @@
 </head>
 <body>
 <h1>Treinamento Prodap 1</h1>
+<p>redirecinado para pagina<a href="principal.php"></a></p>
 </body>
 </html>
