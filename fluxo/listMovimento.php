@@ -68,7 +68,7 @@
 								<a href='editUsuario.php' title='Editar'>
 									<img src='images/edit.png' alt='Editar' />
 								</a>
-								<a href='delUsuario.php' title='Excluir'>
+								<a href='javascript: false' onclick='deletar({$arrDados['idMovimento'];})' title='Excluir'>
 									<img src='images/delete.png' alt='Excluir' />
 								</a>
 							</td>";
