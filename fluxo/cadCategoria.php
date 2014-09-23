@@ -1,4 +1,4 @@
-﻿<?php require_once("topo.php"); ?>
+﻿<?php require_once"topo.php"; ?>
        <div id="page-wrapper">
             <h1>Cadastro de categoria</h1>
           	<div class="col-lg-12">      
